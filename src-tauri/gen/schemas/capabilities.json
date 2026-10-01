@@ -1,0 +1,1 @@
+{"main-capability":{"identifier":"main-capability","description":"Allow the StayUp window to choose files and folders and open approved help links.","local":true,"windows":["main"],"permissions":["core:default","dialog:allow-open","opener:allow-open-url"]}}

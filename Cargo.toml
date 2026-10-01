@@ -1,0 +1,3 @@
+[workspace]
+members = ["crates/stayup-core", "crates/stayup-windows", "src-tauri"]
+resolver = "3"

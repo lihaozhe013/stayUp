@@ -111,3 +111,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Rust and Tauri build output
+/target/
+/src-tauri/target/
+/src-tauri/resources/winsw/WinSW.NET461.exe
+/src-tauri/resources/winsw/WinSW.NET461.exe.sha256
+
+# Local application state and generated preview output
+.tauri/
+playwright-report/
+test-results/
